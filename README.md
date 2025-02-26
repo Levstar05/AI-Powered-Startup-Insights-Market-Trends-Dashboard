@@ -18,7 +18,7 @@ The **Startup Ecosystem Dashboard** is a data-driven application that helps anal
 - **Prophet** (Machine Learning for forecasting)
 
 ## 🚀 Deployment
-The application is deployed on **Streamlit Cloud**. You can access it [here].
+The application is deployed on **Streamlit Cloud**. You can access it [here: https://ai-powered-startup-insights-market-trends-dashboard-aa3smbznpt.streamlit.app/].
 
 ## 🔧 Installation & Running Locally
 
